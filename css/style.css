@@ -1009,6 +1009,103 @@ h1, h2, h3, h4, h5,
 }
 /**************** team_part css ends ****************/
 
+/**************** service_part css start ****************/
+/* line 4, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+.service_part .single_service_part_iner {
+  background-color: #2e4158;
+  padding: 50px 24px;
+  text-align: center;
+  border-radius: 5px;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+  height: 200px;
+  width: 257px;
+  margin: 10px 0px;	
+}
+
+@media (max-width: 576px) {
+  /* line 4, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+  .service_part .single_service_part_iner {
+    padding: 35px 14px;
+    margin: 10px 0px;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 4, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+  .service_part .single_service_part_iner {
+    padding: 35px 14px;
+    margin: 10px 0px;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 4, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+  .service_part .single_service_part_iner {
+    padding: 35px 14px;
+    margin: 10px 0px;
+    width: 100%;
+  }
+}
+
+
+
+/* line 38, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+.service_part .single_service_part_iner h3 {
+  font-weight: 600;
+  margin-bottom: 26px;
+  font-size: 22px;
+  color: #fff;
+  font-family: "Oswald", sans-serif;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 38, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+  .service_part .single_service_part_iner h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+}
+
+/* line 50, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+.service_part .single_service_part_iner p {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.4);
+  line-height: 1.8;
+  font-weight: 400;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 50, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+  .service_part .single_service_part_iner p {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+}
+
+/* line 64, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+.service_part .single_service_part:hover .single_service_part_iner {
+  background-color: #fff;
+}
+
+/* line 66, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+.service_part .single_service_part:hover .single_service_part_iner h3 {
+  color: #112e41;
+}
+
+/* line 69, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
+.service_part .single_service_part:hover .single_service_part_iner p {
+  color: #888888;
+}
+
+/**************** service_part css ends ****************/
+
 .section-1 {
   margin-top: 10rem; }
 
