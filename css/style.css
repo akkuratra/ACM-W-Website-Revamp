@@ -18,7 +18,7 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease; }
 a:hover {
-  color: #1b2b5a !important;
+  color: #14d0bb !important ;
   text-decoration: none;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -525,7 +525,7 @@ h1, h2, h3, h4, h5,
       padding: 10px 20px;
       display: block;
       position: relative;
-      color: #212529; }
+      color: #1b2b5a; }
       .site-mobile-menu .site-nav-wrap a:hover {
         color: #14d0bb; }
     .site-mobile-menu .site-nav-wrap li {
@@ -626,12 +626,12 @@ h1, h2, h3, h4, h5,
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.2);
     background: #fff; }
     .sticky-wrapper.is-sticky .site-navbar .site-logo a {
-      color: #000; }
+      color: #1b2b5a; }
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li {
       display: inline-block; }
       .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
         padding: 5px 20px;
-        color: #000;
+        color: #1b2b5a;
         display: inline-block;
         text-decoration: none !important; }
         .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover {
