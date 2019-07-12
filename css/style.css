@@ -1090,10 +1090,10 @@ h1, h2, h3, h4, h5,
 }
 
 /* line 64, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
-.service_part .single_service_part:hover .single_service_part_iner {
+/* .service_part .single_service_part:hover .single_service_part_iner {
   background-color: #fff;
 }
-
+ */
 /* line 66, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
 .service_part .single_service_part:hover .single_service_part_iner h3 {
   color: #112e41;
