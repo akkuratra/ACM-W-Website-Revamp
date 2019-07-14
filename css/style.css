@@ -61,6 +61,7 @@ a+a {
 
 .bor {
   border-radius: 5px;
+  color: #14d0bb;
   border: 1.2px solid #14d0bb;
 }
 .bor:hover{
