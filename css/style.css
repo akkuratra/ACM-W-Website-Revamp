@@ -1219,6 +1219,9 @@ h1, h2, h3, h4, h5,
 .footer-section .footer-links li {
     margin-bottom: 10px; 
 }
+.hg { 
+  height: 600px;
+   }
 .process, .service {
   position: relative; }
   .process .number, .service .number {
