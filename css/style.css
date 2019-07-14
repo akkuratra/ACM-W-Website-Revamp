@@ -59,6 +59,13 @@ a+a {
   }
 }
 
+.bor {
+  border-radius: 5px;
+  border: 1.2px solid #14d0bb;
+}
+.bor:hover{
+  color:#fff;
+}
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
