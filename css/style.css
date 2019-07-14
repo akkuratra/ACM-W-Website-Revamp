@@ -67,7 +67,9 @@ a+a {
 .bor:hover{
   color:#fff;
 }
-
+.colo{
+  color:#1b2b5a;
+}
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
@@ -1243,7 +1245,7 @@ h1, h2, h3, h4, h5,
     font-weight: 900; }
   .process h3, .service h3 {
     font-size: 1.5rem;
-    color: #000;
+    color: #1b2b5a;
     font-weight: 700;
     margin-bottom: 1.5rem; }
 
