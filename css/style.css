@@ -61,6 +61,7 @@ a+a {
 
 .bor {
   border-radius: 5px;
+  color: #14d0bb;
   border: 1.2px solid #14d0bb;
 }
 .bor:hover{
@@ -532,7 +533,7 @@ h1, h2, h3, h4, h5,
       padding: 10px 20px;
       display: block;
       position: relative;
-      color: #1b2b5a; }
+      color: #14d0bb; }
       .site-mobile-menu .site-nav-wrap a:hover {
         color: #14d0bb; }
     .site-mobile-menu .site-nav-wrap li {
@@ -1127,7 +1128,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: "";
-    background: rgba(0, 123, 255, 0.8);
+    background: rgba(20, 208, 187, 0.65);
     z-index: 1;
     opacity: 0;
     visibility: hidden;
@@ -1227,7 +1228,7 @@ h1, h2, h3, h4, h5,
     margin-bottom: 10px; 
 }
 .hg { 
-  height: 600px;
+  height: 700px;
    }
 .process, .service {
   position: relative; }
