@@ -1130,7 +1130,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: "";
-    background: rgba(20, 208, 187, 0.65);
+    background: rgba(20, 208, 187, 0.77);
     z-index: 1;
     opacity: 0;
     visibility: hidden;
